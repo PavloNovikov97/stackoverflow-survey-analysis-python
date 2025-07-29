@@ -41,8 +41,9 @@ The following questions were answered using pandas and numpy in a Jupyter Notebo
 
 ## Code
 
-All logic is implemented in this Jupyter notebook:  
-**`StackOverflow_Survey_Data_Exploration.ipynb`**
+All logic is implemented in this Jupyter notebook: 
+[StackOverflow_Survey_Data_Exploration.ipynb](./StackOverflow_Survey_Data_Exploration.ipynb)
+
 
 Key techniques include:
 - Dataset cleaning & exploration
