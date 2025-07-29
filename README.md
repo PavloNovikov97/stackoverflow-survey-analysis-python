@@ -50,7 +50,6 @@ Key techniques include:
 - Grouping and aggregation
 - Compensation percentiles
 - Sorting and subsetting
-- Visualization using `matplotlib` (optional)
 
 ---
 
